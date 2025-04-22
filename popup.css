@@ -4,8 +4,8 @@
 }
 
 @font-face {
-    font-family: 'Steam Font'; /* Имя шрифта */
-    src: url('ttf/Steam Font.ttf') format('truetype'); /* Путь к файлу шрифта */
+    font-family: 'Steam Font';
+    src: url('ttf/Steam Font.ttf') format('truetype'); 
     font-weight: normal;
     font-style: normal;
 }
@@ -124,8 +124,8 @@ footer {
 }
 
 ::selection {
-    background-color: #417394; /* Цвет фона выделения */
-    color: #ffffff; /* Цвет текста в выделении */
+    background-color: #417394;
+    color: #ffffff; 
 }
 
 .made-with {
