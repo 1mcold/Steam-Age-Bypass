@@ -58,7 +58,7 @@ git clone https://github.com/1mcold/Steam-Age-Skipper.git
 ## 📦 Download
 
 You can download the latest release here:  
-👉 [Releases](https://github.com/1mcold/TagFlow/releases)
+👉 [Releases](https://github.com/1mcold/Steam-Age-Bypass/releases/)
 
 ## 🤝 Contributions
 Found a bug or have an idea to improve the extension?
