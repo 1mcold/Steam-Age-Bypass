@@ -1,5 +1,5 @@
 window.addEventListener('load', function() {
-    // Функция для безопасной установки значения элемента
+    // Function to safely set the value of an element
     function setElementValue(id, value) {
         const element = document.getElementById(id);
         if (element) {
@@ -7,12 +7,12 @@ window.addEventListener('load', function() {
         }
     }
 
-    // Устанавливаем значения, если элементы существуют
-    setElementValue("ageDay", "23");       // День
-    setElementValue("ageMonth", "December"); // Месяц
-    setElementValue("ageYear", "2000");     // Год
+    // Set values ​​if elements exist
+    setElementValue("ageDay", "23");       // Day
+    setElementValue("ageMonth", "December"); // Month
+    setElementValue("ageYear", "2000");     // Year
 
-    // Находим и кликаем кнопку, если она существует
+    // Find and click the button if it exists
     const viewProductPageBtn = document.getElementById("view_product_page_btn");
     if (viewProductPageBtn) {
         viewProductPageBtn.click();
@@ -20,7 +20,7 @@ window.addEventListener('load', function() {
 });
 
 document.addEventListener('DOMContentLoaded', function() {
-    // Добавляем обработчики событий только если элементы существуют
+    // Add event handlers only if elements exist
     const playSoundLink = document.getElementById("playSoundLink");
     if (playSoundLink) {
         playSoundLink.addEventListener("click", function(event) {
