@@ -1,4 +1,4 @@
-# Steam Age Bypass ᵝ
+# Steam Age Bypass
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/1mcold)<br><br>
 ![Status](https://img.shields.io/badge/Status-Stable-green)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
