@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Steam Age Skipper",
+  "description": "Automatically skips Steam age verification.\nhttps://github.com/1mcold",
+  "version": "0.1.1",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "permissions": [
+    "scripting",
+    "storage",
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://store.steampowered.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://store.steampowered.com/agecheck/*"],
+      "js": ["scripts/content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
