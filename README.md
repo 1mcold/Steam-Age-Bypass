@@ -1,4 +1,4 @@
-# Steam Age Skipper  
+# Steam Age Skip
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/1mcold)<br><br>
 ![Status](https://img.shields.io/badge/Status-Stable-green)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/1mcold)
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-lightgrey?logo=github)](https://github.com/sponsors/1mcold)
 
-**Steam Age Skipper** is a lightweight browser extension that automatically skips the age verification screen on Steam store pages.  
+**Steam Age Skip** is a lightweight browser extension that automatically skips the age verification screen on Steam store pages.  
 Save time and enjoy smoother browsing without unnecessary clicks.
 
 
@@ -23,7 +23,7 @@ At that moment, I thought:
 
 > **"Why not make an extension that skips this annoying step completely?"**
 
-A few lines of JavaScript later — **Steam Age Skipper** was born.
+A few lines of JavaScript later — **Steam Age Skip** was born.
 
 
 ## 📋 Features
