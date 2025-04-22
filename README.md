@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Stable-green)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?logo=javascript&logoColor=white)
-![Auto Skip](https://img.shields.io/badge/Feature-Age%20Gate%20Skipper-orange)
+![Auto Bypass](https://img.shields.io/badge/Feature-Age%20Gate%20Bypass-orange)
 ![Open Source](https://badgen.net/badge/Open%20Source/Yes/green)
 ![Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 ![Platform](https://img.shields.io/badge/Platform-Chrome%20%7C%20Chromium-black)
