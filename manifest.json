@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Steam Age Skipper",
+  "name": "Steam Age Skip",
   "description": "Automatically skips Steam age verification.\nhttps://github.com/1mcold",
   "version": "0.1.1",
   "icons": {
