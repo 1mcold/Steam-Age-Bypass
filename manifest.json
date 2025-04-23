@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Steam Age Bypass",
-  "description": "Automatically skips Steam age verification.\nhttps://github.com/1mcold",
+  "description": "Automatically skips Steam's age verification popups for a faster and cleaner browsing experience.\nhttps://github.com/1mcold",
   "version": "0.1.1",
   "icons": {
     "16": "icons/icon16.png",
